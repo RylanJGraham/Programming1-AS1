@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\Rylan Graham\Downloads\Template_Project2\Project2\ex5.h(23,18): warning C4477: 'fscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const char *(*)[100]'
+C:\Users\Rylan Graham\Downloads\Template_Project2\Project2\ex5.h(25,21): warning C4047: 'function': 'const char *' differs in levels of indirection from 'const char *[100]'
+C:\Users\Rylan Graham\Downloads\Template_Project2\Project2\ex5.h(25,15): warning C4024: 'strcmp': different types for formal and actual parameter 1
+C:\Users\Rylan Graham\Downloads\Template_Project2\Project2\ex3.h(32): warning C4715: 'findPacman': not all control paths return a value
+C:\Users\Rylan Graham\Downloads\Template_Project2\Project2\ex3.h(97): warning C4715: 'canPacmanMoveToCell': not all control paths return a value
+C:\Users\Rylan Graham\Downloads\Template_Project2\Project2\ex5.h(33): warning C4715: 'countWordInFile': not all control paths return a value
+  Project2.vcxproj -> C:\Users\Rylan Graham\Downloads\Template_Project2\Project2\x64\Debug\Project2.exe
