@@ -1,5 +1,3 @@
-# RylanGrahamCITMProgramming1Work
- 
 Exercise 1 (2 points). Implement a program that asks the user for the number of a month and returns its
 number of days.
 
